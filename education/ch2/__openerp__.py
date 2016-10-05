@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 {
     'name': 'Education 1',
     'author': 'alltop',
