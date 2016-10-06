@@ -15,13 +15,6 @@
                 <field name="active" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </field>
-                <!-- Open Chatter widgets -->
-                <!--<sheet position="after">-->
-                    <!--<div class="oe_chatter">-->
-                        <!--<field name="message_follower_ids" widget="mail_followers"/>-->
-                        <!--<field name="message_ids" widget="mail_thread"/>-->
-                    <!--</div>-->
-                <!--</sheet>-->
             </field>
         </record>
         <!-- Extend list -->
